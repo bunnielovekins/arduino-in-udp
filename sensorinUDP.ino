@@ -5,8 +5,8 @@
 //Internet Stuff
 byte mac[] = { 
   0x86, 0x8D, 0xBE, 0x8F, 0xFE, 0xED };
-char server[] = "10.32.25.136";
-IPAddress serverIP(10,32,25,136);
+char server[] = "10.32.24.120";
+IPAddress serverIP(10,32,24,120);
 int sendPort = 4001;
 int recvPort = 4002;
 
